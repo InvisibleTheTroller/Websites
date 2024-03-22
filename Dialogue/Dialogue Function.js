@@ -11,7 +11,7 @@ var opacityForSecondText = 0;
 var thirdTextLengthReached = false;
 var thirdTextLength = 0;
 
-var thirdTextContent = "Hmm, chủ yếu tui nhắn vì muốn rủ bà ngày mai đi chơi, ăn ở đâu đó một chút thôi."
+var thirdTextContent = "Hmm, chủ yếu tui nhắn vì muốn rủ bà ngày mai đi chơi, ăn ở đâu đó một chút thôi. Khoảng 10-15 phút cx đc."
 
 var clickCounts = 0;
 
